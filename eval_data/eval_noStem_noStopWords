@@ -1,0 +1,7 @@
+<parameters>
+<index>eval_data_noStem_noStopw_index.ifp</index>
+<query>query</query>
+<weightScheme>RawTFIDF</weightScheme>
+<result>result_rawtfidf_nostem_nostopw</result>
+<resultCount>100</resultCount>
+</parameters>
